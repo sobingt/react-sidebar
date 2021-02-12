@@ -45,13 +45,13 @@ class App extends Component {
 
     const menuItems = styles.showSidebar
       ? [
-          { icon: `😀`, text: "Item 1" },
-          { icon: `😉`, text: "Item 2" },
-          { icon: `😎`, text: "Item 3" },
-          { icon: `🤔`, text: "Item 4" },
-          { icon: `😛`, text: "Item 5" },
-          { icon: `😺️`, text: "Profile" },
-          { icon: `⚙`, text: "Settings" }
+          { icon: `😀`, text: "Page 1" },
+          { icon: `😉`, text: "Page 2" },
+          { icon: `😎`, text: "Page 3" },
+          { icon: `🤔`, text: "Page 4" },
+          { icon: `😛`, text: "Page 5" },
+          { icon: `😺️`, text: "Page 6" },
+          { icon: `⚙`, text: "Page 7" }
         ]
       : [
           { icon: `😀`, text: "Item 1" },
